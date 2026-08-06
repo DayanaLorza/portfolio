@@ -2,6 +2,10 @@
 
 Personal portfolio site for Dayana Lorza.
 
+## Snapshot
+
+![Current portfolio snapshot](snapshot.png)
+
 ## Structure
 
 - `index.html` — current portfolio site
